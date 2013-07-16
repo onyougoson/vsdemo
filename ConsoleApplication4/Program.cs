@@ -11,7 +11,7 @@ namespace ConsoleApplication4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Fred!");
-            Console.WriteLine("Goodbye, Bill");
+            Console.WriteLine("Goodbye!");
         }
     }
 }
